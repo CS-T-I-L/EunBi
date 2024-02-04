@@ -13,7 +13,7 @@
 | 03 | <a href="https://www.acmicpc.net/problem/18312" target="_blank">18312</a> | <a href="https://www.acmicpc.net/problem/18312" target="_blank">시각</a> | <a href="https://github.com/jjeunv/solutions_for_baekjoon_problems/blob/main/BruteForce/18312_%EC%8B%9C%EA%B0%81.py">바로가기</a> |
 | 04 | <a href="https://www.acmicpc.net/problem/22864" target="_blank">22864</a> | <a href="https://www.acmicpc.net/problem/22864" target="_blank">피로도</a> | <a href="https://github.com/jjeunv/solutions_for_baekjoon_problems/blob/main/BruteForce/22864_%ED%94%BC%EB%A1%9C%EB%8F%84.py">바로가기</a>                       |
 | 05 | <a href="https://www.acmicpc.net/problem/15721" target="_blank">15721</a> | <a href="https://www.acmicpc.net/problem/15721" target="_blank">번데기</a> |  <a href="https://github.com/jjeunv/solutions_for_baekjoon_problems/blob/main/BruteForce/15721_%EB%B2%88%EB%8D%B0%EA%B8%B0.py">바로가기</a> |
-| 06 | <a href="https://www.acmicpc.net/problem/18511" target="_blank">18511</a> | <a href="https://www.acmicpc.net/problem/18511" target="_blank">큰 수 구성하기</a> | <a href="https://github.com/jjeunv/solutions_for_baekjoon_problems/blob/main/BruteForce/18511_%ED%81%B0%EC%88%98%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0.py">바로가기</a> 98     |               |   |
+| 06 | <a href="https://www.acmicpc.net/problem/18511" target="_blank">18511</a> | <a href="https://www.acmicpc.net/problem/18511" target="_blank">큰 수 구성하기</a> | <a href="https://github.com/jjeunv/solutions_for_baekjoon_problems/blob/main/BruteForce/18511_%ED%81%B0%EC%88%98%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0.py">바로가기</a>      |               |   |
 
 
 
